@@ -4,3 +4,5 @@ Basic Java Programs
 <h4>(2) Add Numbers program</h4>
 <h4>(3) Taking Input From User program</h4>
 <h4>(4) Odd Even program</h4>
+<h4>(4) Palindrome Number program</h4>
+
