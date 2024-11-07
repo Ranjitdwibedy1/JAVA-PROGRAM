@@ -7,4 +7,5 @@ Basic Java Programs
 <h4>(5) Palindrome Number program</h4>
 <h4>(6) Add Two Numbers program</h4>
 <h4>(7) Natural Number program</h4>
+<h4>(8) Sum Of Odd Even program</h4>
 
